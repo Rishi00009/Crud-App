@@ -1,0 +1,5 @@
+CRUD App with React and Axios This is a simple CRUD (Create, Read, Update, Delete) app built with React and Axios. The app allows users to create, read, update, and delete user data.
+Features: 1.Create new users / 2.Read user data  / 3.Update existing users  / 4.Delete users
+Technologies Used: 1.React / 2.Axios / 3.JSONPlaceholder API (mock API)
+How to Use: 1.You can create new User Data by filling the form and submit it / 2.You can Edit or Delete a specific User Data by click a Edit or Delete In that User card.
+Important Notice : Once you delete a User data You can never retrive that User data.
